@@ -1,0 +1,6 @@
+import randomcheck
+
+randomcheck.main()
+
+
+
